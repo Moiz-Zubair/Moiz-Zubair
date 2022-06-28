@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <b align="center"> Connect with me 👇</b>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mzubair-132909/"><![Custom badge](https://img.shields.io/endpoint?color=blue&label=LinkedIn&logo=linkedIn&logoColor=white&url=https%3A%2F%2Fmocki.io%2Fv1%2Ff86032c9-302f-4ace-8ae2-d6674b5ced2c)></a>
+<a href="https://www.linkedin.com/in/mzubair-132909/"><img src= "https://img.shields.io/endpoint?color=blue&label=LinkedIn&logo=linkedIn&logoColor=white&url=https%3A%2F%2Fmocki.io%2Fv1%2Ff86032c9-302f-4ace-8ae2-d6674b5ced2c"/></a>
 <a href="mailto:mzubair132909@gmail.com"><img src="https://img.shields.io/badge/Mail-mzubair132909%40gmail.com-red"/></a>
 <a href="https://twitter.com/MoizZubair8096"><img src="https://img.shields.io/badge/Twitter-Moiz%20Zubair-blue"/></a>
 
