@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 💡 <b>I'm interested in :</b>
 <ul>
-  <li>☁ Cloud Computing</li>
-  <li>🔭 Solutions Architect</li>
+  <li> Cloud Computing</li>
+  <li> Solutions Architect</li>
   <li> DevOps</li>
-  <li>Blockchain and Crypto</li>
+  <li> Blockchain and Crypto</li>
 </ul>
 
 </br>
@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mzubair-132909/"><img src= "https://img.shields.io/endpoint?color=blue&label=LinkedIn&logo=linkedIn&logoColor=white&url=https%3A%2F%2Fmocki.io%2Fv1%2Ff86032c9-302f-4ace-8ae2-d6674b5ced2c"/></a>
-<a href="mailto:mzubair132909@gmail.com"><img src="https://img.shields.io/badge/Mail-mzubair132909%40gmail.com-red"/></a>
-<a href="https://twitter.com/MoizZubair8096"><img src="https://img.shields.io/badge/Twitter-Moiz%20Zubair-blue"/></a>
+<a href="mailto:mzubair132909@gmail.com"><img src="https://img.shields.io/endpoint?color=red&label=Gmail&logo=gmail&logoColor=white&url=https%3A%2F%2Fmocki.io%2Fv1%2Ff86032c9-302f-4ace-8ae2-d6674b5ced2c"/></a>
+<a href="https://twitter.com/MoizZubair8096"><img src="https://img.shields.io/endpoint?color=white&label=Twitter&logo=twitter&logoColor=blu&url=https%3A%2F%2Fmocki.io%2Fv1%2Ff86032c9-302f-4ace-8ae2-d6674b5ced2c"/></a>
 
 
 ## Contribution Graph
