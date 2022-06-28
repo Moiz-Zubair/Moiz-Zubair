@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 
 💡 <b>I'm interested in :</b>
 <ul>
+  <li> DevOps</li>
   <li> Cloud Computing</li>
   <li> Solutions Architect</li>
-  <li> DevOps</li>
   <li> Blockchain and Crypto</li>
+  <li> Web Devolpment</li>
+  
 </ul>
 
 </br>
