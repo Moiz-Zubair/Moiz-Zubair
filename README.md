@@ -14,9 +14,21 @@ Here are some ideas to get you started:
 -->
 
 # 🙋‍♂️ Hi, I am <b>Moiz Zubair</b>
-## I am a Final Year CS Student
 
-💡 <b>I'm interested in :</b>
+## 👩‍💻 I am currently a
+
+- Final Year Computer Science student at National University of Science and Technology(NUST)
+- Cloud Track Fellow at Bytewise Limited
+- Program Manager at GDSC NUST (2022-2023)
+
+## 🏆 Achievements
+
+- Completed summer internship at 10Pearls (out of 900+ applicants)
+- Part of Organizing committee for Google Devfest'21 at NUST 
+- Part of AWS Community Pakistan and GDSC NUST 
+
+
+## 💡 <b>I'm interested in :</b>
 <ul>
   <li> DevOps</li>
   <li> Cloud Computing</li>
@@ -27,15 +39,16 @@ Here are some ideas to get you started:
 </ul>
 
 </br>
-<b align="center"> Connect with me 👇</b>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/mzubair-132909/"><img src= "https://img.shields.io/endpoint?color=blue&label=LinkedIn&logo=linkedIn&logoColor=white&url=https%3A%2F%2Fmocki.io%2Fv1%2Ff86032c9-302f-4ace-8ae2-d6674b5ced2c"/></a>
-<a href="mailto:mzubair132909@gmail.com"><img src="https://img.shields.io/endpoint?color=red&label=Gmail&logo=gmail&logoColor=white&url=https%3A%2F%2Fmocki.io%2Fv1%2Ff86032c9-302f-4ace-8ae2-d6674b5ced2c"/></a>
-<a href="https://twitter.com/MoizZubair8096"><img src="https://img.shields.io/endpoint?color=white&label=Twitter&logo=twitter&logoColor=blu&url=https%3A%2F%2Fmocki.io%2Fv1%2Ff86032c9-302f-4ace-8ae2-d6674b5ced2c"/></a>
+## Connect with me 👇
+
+  <p align="center">
+  <a href="https://www.linkedin.com/in/mzubair-132909/"><img src= "https://img.shields.io/endpoint?color=blue&label=LinkedIn&logo=linkedIn&logoColor=white&url=https%3A%2F%2Fmocki.io%2Fv1%2Ff86032c9-302f-4ace-8ae2-d6674b5ced2c"/></a>
+  <a href="mailto:mzubair132909@gmail.com"><img src="https://img.shields.io/endpoint?color=red&label=Gmail&logo=gmail&logoColor=white&url=https%3A%2F%2Fmocki.io%2Fv1%2Ff86032c9-302f-4ace-8ae2-d6674b5ced2c"/></a>
+  <a href="https://twitter.com/MoizZubair8096"><img src="https://img.shields.io/endpoint?color=white&label=Twitter&logo=twitter&logoColor=blu&url=https%3A%2F%2Fmocki.io%2Fv1%2Ff86032c9-302f-4ace-8ae2-d6674b5ced2c"/></a>
 
 
-## Contribution Graph
+## GitHub Stats:
 [![Moiz-Zubair's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Moiz-Zubair&theme=react-dark)](https://github.com/Moiz-Zubair)
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
