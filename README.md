@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 - Part of Organizing committee for Google Devfest'21 at NUST 
 - Part of AWS Community Pakistan and GDSC NUST 
 
+[![@mz132909's Holopin board](https://holopin.me/mz132909)](https://holopin.io/@mz132909)
+
 
 ## 💡 <b>I'm interested in :</b>
 <ul>
