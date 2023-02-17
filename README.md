@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 ## GitHub Stats:
-[![Moiz-Zubair's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Moiz-Zubair&theme=dracula)](https://github.com/Moiz-Zubair)
+[![Moiz-Zubair's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Moiz-Zubair&theme=github-dark)](https://github.com/Moiz-Zubair)
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moiz-Zubair&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
