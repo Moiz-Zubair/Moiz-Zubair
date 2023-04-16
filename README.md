@@ -17,12 +17,17 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 I am currently a
 
+- 1x AWS Certified Cloud Practitioner 🥇
 - Final Year Computer Science student at National University of Science and Technology(NUST)
-- Cloud Track Fellow at Bytewise Limited
 - Program Manager at GDSC NUST (2022-2023)
+- Devops Fellow at Bytewise Limited
+- X-Cloud Track Fellow at Bytewise Limited
+- X-10 Pearls Summer Intern
+
 
 ## 🏆 Achievements
 
+- AWS Certified Cloud Practitioner(in Feb 2023)
 - Completed summer internship at 10Pearls (out of 900+ applicants)
 - Part of Organizing committee for Google Devfest'21 at NUST 
 - Part of AWS Community Pakistan and GDSC NUST 
